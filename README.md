@@ -7,21 +7,21 @@ A real-world automated system built to handle school teacher absences and dynami
 
 * **Frontend GUI Framework:** Python (Tkinter)
 * **Backend Database:** MySQL
-* **Documentation:** 👉 [Click here to view the full 53-Page Project Report & Documentation](./12A08_Lakshana_Project_File.pdf) (Includes Data Dictionary, full system flow, and all sample output screens! For the sample outputs see pages 42-52....)
+* **Documentation:** 👉 [Click here to view the full 53-Page Project Report & Documentation](./12A08_Lakshana_project_file.pdf) (Includes Data Dictionary, full system flow, and all sample output screens! For the sample outputs see pages 42-52....)
 
 ### 📸 Application Interface Snippets:
 
 #### 🔐 Welcome Screen
-![Welcome Screen](welcome%20screen.jpg)
+![Welcome Screen](Welcome_screen.jpg)
 
 #### 🔑 Login Page
-![Login Page](login%20page.jpg)
+![Login Page](Login_page.jpg)
 
 #### 📊 Admin Dashboard Window
-![Admin Window](admin%20window.jpg)
+![Admin Window](Admin_window.jpg)
 
 #### 🗓️ Timetable Grid View
-![Time Table View](time%20table%20view.jpg)
+![Time Table View](Timetable_view.jpg)
 
 
 ## 🎮 2. Tile Matching Game
