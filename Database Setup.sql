@@ -102,5 +102,3 @@ INSERT INTO gteach VALUES
 (3,'Wednesday',' ',' ','BREAK','1a',' ',' ','LUNCH',' ','1b',' ',' ',' '),
 (4,'Thursday',' ','1a','BREAK',' ',' ',' ','LUNCH',' ','1a',' ',' ',' '),
 (5,'Friday',' ','1b','BREAK',' ',' ',' ','LUNCH',' ','1c',' ',' ',' ');
-
-5) 
