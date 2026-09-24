@@ -1,1 +1,1 @@
-# School-Python-Projects
+# School-Python-DBMS-Projects
